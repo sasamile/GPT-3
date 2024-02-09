@@ -1,0 +1,15 @@
+export { default as ai } from "./ai.avif";
+export { default as atlassian } from "./atlassian.avif";
+export { default as blog01 } from "./blog01.avif";
+export { default as blog02 } from "./blog02.avif";
+export { default as blog03 } from "./blog03.avif";
+export { default as blog04 } from "./blog04.avif";
+export { default as blog05 } from "./blog05.avif";
+export { default as dropbox } from "./dropbox.avif";
+export {default as google}from"./google.avif";
+export {default as Logo}from "./logo.avif";
+export{default as people}from "./people.avif";
+export {default as possibility}from "./possibility.avif";
+export {default as shopity}from "./shopify.avif";
+export {default as slack}from"./slack.avif";
+export {default as logo }from "./logo.svg";
